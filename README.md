@@ -64,3 +64,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## RESULT
+Thus the program to Generate a String by Mutating a Single Character at each iteration by implementing simple hill climbing algorithm has been executed successfully.
